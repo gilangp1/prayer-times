@@ -30,7 +30,7 @@ function success(position){
 }
 
 function error(){
-   alert('posisi tidak dapat diakses');
+   prayerTimes('-2.53371', '140.71813');
 }
 
 function userLocation(){
